@@ -9,6 +9,7 @@
 
 ########################################################################
 Update Information Follow-up Project 3
+Update GITHUB Branch documentation
 
 import time
 import pandas as pd
