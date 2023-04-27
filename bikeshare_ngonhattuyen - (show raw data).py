@@ -10,6 +10,8 @@
 ########################################################################
 Update Information Follow-up Project 3
 
+Update information Code refactoring _Project 3
+
 import time
 import pandas as pd
 import numpy as np
