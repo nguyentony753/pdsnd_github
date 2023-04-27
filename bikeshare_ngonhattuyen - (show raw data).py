@@ -11,7 +11,7 @@
 Update Information Follow-up Project 3
 Update GITHUB Branch documentation
 
-Update information Code refactoring _Project 3
+Update information Code refactoring _Project 3 Complete
 
 import time
 import pandas as pd
