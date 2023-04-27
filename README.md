@@ -8,7 +8,8 @@
 # Project II : Explore US Bikeshare Data
 
 ########################################################################
-Update Information Follow-up Project 3
+Update Information Follow-up Project 3. 
+
 
 
 ## Overview
