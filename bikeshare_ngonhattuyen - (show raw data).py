@@ -1,7 +1,7 @@
 ########################################################################
 
 # Author: Tuyen Ngo Nhat
-# Create On: Mar/25/2023 
+# Create On: Apr/27/2023 
 # Version : v1.1
 # Description : Everything is so lucky, good, healthy
 # Udacity : Programming for Data Science with Python 
@@ -10,6 +10,8 @@
 ########################################################################
 Update Information Follow-up Project 3
 Update GITHUB Branch documentation
+
+Update information Code refactoring _Project 3
 
 import time
 import pandas as pd
