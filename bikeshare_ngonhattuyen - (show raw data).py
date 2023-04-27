@@ -1,10 +1,12 @@
 ########################################################################
+
 # Author: Tuyen Ngo Nhat
 # Create On: Mar/25/2023 
 # Version : v1.1
 # Description : Everything is so lucky, good, healthy
 # Udacity : Programming for Data Science with Python 
 # Project II : Explore US Bikeshare Data
+
 ########################################################################
 
 
@@ -34,8 +36,7 @@ def get_filters():
             continue
         else:
             break
-        
-        
+          
     # TO DO: get user input for month (all, january, february, ... , june)
     
     while True:
